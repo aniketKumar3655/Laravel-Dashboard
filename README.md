@@ -1,2 +1,2 @@
 # Laravel-Dashboard
-# Using this package you can create beautiful dashboards. 
+Using this package you can create beautiful dashboards. 
